@@ -1,0 +1,7 @@
+//First Step to create the namespace #open-cluster-management-namespace.yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: open-cluster-management
+spec: {}
+
